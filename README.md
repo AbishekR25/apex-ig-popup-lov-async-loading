@@ -26,6 +26,3 @@ Once the AJAX process completes, the required value is set in the Popup LOV colu
 
 The JavaScript handles the Interactive Grid record, captures the selected Popup LOV value, displays the temporary loading state, performs the AJAX request, and updates the required columns after processing.
 
-## 📄 License
-
-MIT License — feel free to use and modify for your own APEX projects.
